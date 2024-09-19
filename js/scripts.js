@@ -1,5 +1,5 @@
 //1. Adding a new item to the list of items: 
-function newItem(){
+function newItem() {
   
   let li = $('<li></li>');
   let inputValue = $('#input').val();
